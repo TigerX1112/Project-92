@@ -1,0 +1,41 @@
+.body_background{
+    background-color: lightblue;
+    background-image: url(https://t4.ftcdn.net/jpg/02/99/84/89/360_F_299848927_S0EwX0P6HWGigW6qZWFIBaczKMQuq5D9.jpg);
+    background-position: center;
+    background-size: cover;
+}
+
+#div1, #div2 {
+    background-color: cyan;
+    margin-left: 550px;
+    margin-right: 550px;
+    width: 300px;
+    height: 150px;
+    border-radius: 30%;
+}
+
+h3 {
+    padding-top: 30px;
+}
+
+button {
+    border-radius: 10%;
+    font-size: large;
+}
+
+h1 {
+    color: blue;
+}
+
+label {
+    font-size: 20px;
+}
+
+#output {
+    background-color: white;
+    border-radius: 10px;
+    border-top: 10px solid #AA4465;
+    padding: 10px;
+    float: none;
+    text-align: left;
+}
